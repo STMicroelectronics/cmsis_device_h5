@@ -11248,7 +11248,7 @@ typedef struct
 #define OCTOSPI_CR_TCIE_Msk                 XSPI_CR_TCIE_Msk                              /*!< 0x00020000 */
 #define OCTOSPI_CR_TCIE                     XSPI_CR_TCIE                                  /*!< Transfer Complete Interrupt Enable */
 #define OCTOSPI_CR_FTIE_Pos                 XSPI_CR_FTIE_Pos
-#define OCTOSPI_CR_FTIE_Msk                 XSPI_CR_FTIE_Msk)                             /*!< 0x00040000 */
+#define OCTOSPI_CR_FTIE_Msk                 XSPI_CR_FTIE_Msk                              /*!< 0x00040000 */
 #define OCTOSPI_CR_FTIE                     XSPI_CR_FTIE                                  /*!< FIFO Threshold Interrupt Enable */
 #define OCTOSPI_CR_SMIE_Pos                 XSPI_CR_SMIE_Pos
 #define OCTOSPI_CR_SMIE_Msk                 XSPI_CR_SMIE_Msk                              /*!< 0x00080000 */
